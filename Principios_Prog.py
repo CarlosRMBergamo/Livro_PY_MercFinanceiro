@@ -1,5 +1,4 @@
 
-
 #Operacoes simples
 #funcoes pre pre-programadas
 print(1+1)#Soma
